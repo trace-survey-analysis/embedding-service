@@ -1,0 +1,4 @@
+sentence-transformers==4.1.0
+psycopg2-binary==2.9.10
+Flask==3.1.0
+dotenv
